@@ -70,6 +70,7 @@ No prior SQL knowledge required.
 ---
 
 ## Module 2: Database Objects
+> [Link](/SQL-Course/02-Database-objects)
 
 ### Topics Covered
 
@@ -86,6 +87,7 @@ No prior SQL knowledge required.
 ---
 
 ## Module 3: SQL Data Types
+> [Link](/SQL-Course/03-SQL-Data-Types)
 
 ### Topics Covered
 
@@ -121,6 +123,7 @@ No prior SQL knowledge required.
 ---
 
 ## Module 4: CREATE TABLE
+[Link](SQL-Course/04-CREATE-TABLE-Statement)
 
 ### Topics Covered
 
@@ -135,6 +138,7 @@ Create a Student Database
 ---
 
 ## Module 5: Constraints
+[Link](SQL-Course/05-Constraints)
 
 ### Topics Covered
 
