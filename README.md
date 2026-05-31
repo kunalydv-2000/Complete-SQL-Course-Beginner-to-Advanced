@@ -1,6 +1,6 @@
 <div align="center">
   <!--Banner-->
-  <img src="https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/b0c85c99108c055cf4988a5a858dfb640807d79d/sql-gif/Interactive%20SQL%20roadmap%20animation%2C%20Database%20Fundamentals%20leading%20to%20SELECT%20Statements%20leading%20to%20Filtering%20leading%20to%20JOINS%20leading%20to%20Aggregations%20leading%20to%20Window%20Functions%20leading%20to%20Stored%20Procedures%20leading%20to%20Data.mp4" 
+  <img src="https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/7cb98e9fe743564171b3669e8cc31ec686299b0a/sql.gif" 
        height="180" 
        width="400" 
        alt="kunalydv-2000 Python">
