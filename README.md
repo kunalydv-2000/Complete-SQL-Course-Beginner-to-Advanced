@@ -649,6 +649,14 @@ SQL-Course/
   <img height="160" src="https://github-readmeapp.vercel.app/api?username=kunalydv-2000&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kunalydv-2000/kunalydv-2000/output/github-contribution-grid-snake.svg" />
+</p>
+
+<div align="center">
+
 # ⭐ Support
 
 If this repository helps you learn SQL, consider giving it a star and sharing it with other learners.
