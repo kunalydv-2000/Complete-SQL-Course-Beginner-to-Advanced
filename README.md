@@ -1,3 +1,11 @@
+<div align="center">
+  <!--Banner-->
+  <img src="https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/sql.gif" 
+       height="180" 
+       width="400" 
+       alt="kunalydv-2000 Python">
+</div>
+
 # 📘 Complete SQL Course: Beginner to Advanced
 
 A comprehensive SQL learning roadmap designed for aspiring **Data Analysts, Business Analysts, Data Engineers, BI Developers, and Analytics Professionals**.
@@ -626,6 +634,20 @@ SQL-Course/
 ```
 
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunalydv-2000&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalydv-2000&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=kunalydv-2000&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+</p>
 
 # ⭐ Support
 
