@@ -46,7 +46,8 @@ No prior SQL knowledge required.
 
 # 📚 Course Structure
 
-## Module 1: Introduction to Databases & SQL > [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/6ff0fed705c974c6bb016da1697ec4ca8160f81a/SQL-Course/01-SQL-Fundamentals)
+## Module 1: Introduction to Databases & SQL 
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/6ff0fed705c974c6bb016da1697ec4ca8160f81a/SQL-Course/01-SQL-Fundamentals)
 
 ### Topics Covered
 
