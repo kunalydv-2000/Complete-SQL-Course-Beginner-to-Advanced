@@ -70,7 +70,7 @@ No prior SQL knowledge required.
 ---
 
 ## Module 2: Database Objects
-> [Link](/SQL-Course/02-Database-objects)
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/02-Database-Objects)
 
 ### Topics Covered
 
@@ -87,7 +87,7 @@ No prior SQL knowledge required.
 ---
 
 ## Module 3: SQL Data Types
-> [Link](/SQL-Course/03-SQL-Data-Types)
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/03-SQL-Data-Type)
 
 ### Topics Covered
 
@@ -123,7 +123,7 @@ No prior SQL knowledge required.
 ---
 
 ## Module 4: CREATE TABLE
-[Link](SQL-Course/04-CREATE-TABLE-Statement)
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/04-CREATE-TABLE-Statement)
 
 ### Topics Covered
 
@@ -138,7 +138,7 @@ Create a Student Database
 ---
 
 ## Module 5: Constraints
-[Link](SQL-Course/05-Constraints)
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/05-Constraints)
 
 ### Topics Covered
 
@@ -156,6 +156,7 @@ Create a Student Database
 ---
 
 ## Module 6: INSERT Statement
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/06-INSERT-Statement)
 
 ### Topics Covered
 
@@ -170,6 +171,7 @@ Populate Student Table
 ---
 
 ## Module 7: SELECT Statement
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/07-SELECT-Statement)
 
 ### Topics Covered
 
@@ -184,6 +186,7 @@ Retrieve Student Records
 ---
 
 ## Module 8: Filtering Data
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/08-Filtering-Data-with-WHERE-Clause)
 
 ### Topics Covered
 
@@ -201,6 +204,7 @@ Customer Search Queries
 ---
 
 ## Module 9: Sorting Data
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/09-ORDER%20BY-Clause)
 
 ### Topics Covered
 
@@ -211,6 +215,7 @@ Customer Search Queries
 ---
 
 ## Module 10: Aggregate Functions
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/10-Aggregate-Functions)
 
 ### Topics Covered
 
@@ -227,6 +232,7 @@ Sales Summary Report
 ---
 
 ## Module 11: GROUP BY
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/11-GROUP%20BY-Clause)
 
 ### Topics Covered
 
@@ -240,6 +246,7 @@ Department-wise Salary Analysis
 ---
 
 ## Module 12: HAVING Clause
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/12-HAVING-Clause)
 
 ### Topics Covered
 
@@ -252,6 +259,7 @@ Top Performing Departments
 ---
 
 ## Module 13: UPDATE Statement
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/13-UPDATE-Statement)
 
 ### Topics Covered
 
@@ -261,6 +269,7 @@ Top Performing Departments
 ---
 
 ## Module 14: DELETE Statement
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/14-DELETE-Statement)
 
 ### Topics Covered
 
@@ -270,7 +279,7 @@ Top Performing Departments
 ---
 
 ## Module 15: ALTER TABLE
-
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/15-ALTER%20TABLE-Statement)
 ### Topics Covered
 
 - Add Columns
@@ -288,7 +297,7 @@ Employee Database Enhancement
 ---
 
 ## Module 16: SQL Joins
-
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/16-Joins)
 ### Topics Covered
 
 - INNER JOIN
@@ -308,6 +317,7 @@ HR Analytics Database
 ---
 
 ## Module 17: Subqueries
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/17-Subqueries)
 
 ### Topics Covered
 
@@ -323,6 +333,7 @@ Above Average Salary Report
 ---
 
 ## Module 18: CASE Statements
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/18-CASE-Statement)
 
 ### Topics Covered
 
@@ -336,6 +347,7 @@ Employee Salary Bands
 ---
 
 ## Module 19: Views
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/19-VIEWS)
 
 ### Topics Covered
 
@@ -349,6 +361,7 @@ Business Reporting Layer
 ---
 
 ## Module 20: Indexes
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/20-INDEXes)
 
 ### Topics Covered
 
@@ -367,6 +380,7 @@ Performance Optimization
 ---
 
 ## Module 21: Stored Procedures
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/21-Stored-Procedures)
 
 ### Topics Covered
 
@@ -381,6 +395,7 @@ Employee Management System
 ---
 
 ## Module 22: Functions
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/22-Functions)
 
 ### Topics Covered
 
@@ -397,6 +412,7 @@ Salary Bonus Calculator
 ---
 
 ## Module 23: Common Table Expressions (CTE)
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/23-CTEs)
 
 ### Topics Covered
 
@@ -410,6 +426,7 @@ Employee Hierarchy Analysis
 ---
 
 ## Module 24: Window Functions
+> [Link](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/tree/cd6379c0e481c95070282f575f8bf73493f1c300/SQL-Course/24-Window-Functions)
 
 ### Topics Covered
 
