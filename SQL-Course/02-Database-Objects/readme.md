@@ -1,3 +1,4 @@
+[Main Roadmap](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/61950d4642ce8bd9ed200084e830ac99ce308582/README.md) | [Next →](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/61950d4642ce8bd9ed200084e830ac99ce308582/SQL-Course/03-SQL-Data-Type/readme.md)
 # Module 2: Database Objects
 
 > Understanding database objects is essential because every SQL operation revolves around these objects. Before writing complex queries, you must know how data is organized, stored, and related inside a database.
