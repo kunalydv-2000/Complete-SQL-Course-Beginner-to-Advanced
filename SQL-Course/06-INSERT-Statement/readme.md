@@ -1,3 +1,4 @@
+[Main Roadmap](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/4cf1e1e7a542b933c6695f442b8aec62074e33a0/README.md) | [Next →](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/63d8bec4bd36a32768dca1934cc004ba39f30da2/SQL-Course/07-SELECT-Statement/readme.md)
 # Module 6: INSERT Statement
 
 > The `INSERT` statement is used to add new records into a database table. Every application, website, dashboard, and business system relies on INSERT operations to store data.
