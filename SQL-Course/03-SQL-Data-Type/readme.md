@@ -1,3 +1,4 @@
+[Main Roadmap](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/61950d4642ce8bd9ed200084e830ac99ce308582/README.md) | [Next →](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/a20e75dca2993d7e1668750048e74eb9779d1912/SQL-Course/04-CREATE-TABLE-Statement/readme.md)
 # Module 3: SQL Data Types
 
 > Data types define the kind of data that can be stored in a column. Choosing the correct data type is one of the most important database design decisions because it affects storage, performance, accuracy, and data integrity.
