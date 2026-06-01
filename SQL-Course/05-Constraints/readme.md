@@ -1,3 +1,4 @@
+[Main Roadmap](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/4cf1e1e7a542b933c6695f442b8aec62074e33a0/README.md) | [Next →](https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/f872a40dfd6e0b81117ab32f97da338dcd3f5cc5/SQL-Course/06-INSERT-Statement/readme.md)
 # Module 5: Constraints
 
 > Constraints are rules enforced on table columns to maintain data accuracy, consistency, and integrity. They prevent invalid data from entering the database and are one of the most important concepts in database design.
