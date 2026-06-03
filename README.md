@@ -1,6 +1,6 @@
 <div align="center">
   <!--Banner-->
-  <img src="https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/7cb98e9fe743564171b3669e8cc31ec686299b0a/sql.gif" 
+  <img src="https://github.com/kunalydv-2000/Complete-SQL-Course-Beginner-to-Advanced/blob/96b16a16b60b6cec0f0a87b56a6359e6718c90e1/SQL_ROADMAP.png" 
        height="180" 
        width="400" 
        alt="kunalydv-2000 Python">
